@@ -1,0 +1,14 @@
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/bin/Debug/net7.0/CalculatorForComplesNumbers
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/bin/Debug/net7.0/CalculatorForComplesNumbers.deps.json
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/bin/Debug/net7.0/CalculatorForComplesNumbers.runtimeconfig.json
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/bin/Debug/net7.0/CalculatorForComplesNumbers.dll
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/bin/Debug/net7.0/CalculatorForComplesNumbers.pdb
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.AssemblyInfoInputs.cache
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.AssemblyInfo.cs
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.csproj.CoreCompileInputs.cache
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.dll
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/refint/CalculatorForComplesNumbers.dll
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.pdb
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/CalculatorForComplesNumbers.genruntimeconfig.cache
+/home/tekashi/Dokumenty/GitHub/CalculatorForComplesNumbers/obj/Debug/net7.0/ref/CalculatorForComplesNumbers.dll
